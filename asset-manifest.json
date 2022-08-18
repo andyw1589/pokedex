@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/pokedex/static/css/main.964fdded.css",
+    "main.js": "/pokedex/static/js/main.86e6b1a7.js",
+    "static/js/787.f055211e.chunk.js": "/pokedex/static/js/787.f055211e.chunk.js",
+    "static/media/pokeball.png": "/pokedex/static/media/pokeball.774abbafa8d08b174185.png",
+    "static/media/meowthisdead.jpg": "/pokedex/static/media/meowthisdead.da528d8179cff53778c9.jpg",
+    "index.html": "/pokedex/index.html",
+    "main.964fdded.css.map": "/pokedex/static/css/main.964fdded.css.map",
+    "main.86e6b1a7.js.map": "/pokedex/static/js/main.86e6b1a7.js.map",
+    "787.f055211e.chunk.js.map": "/pokedex/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.86e6b1a7.js"
+  ]
+}
